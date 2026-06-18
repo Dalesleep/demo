@@ -1,0 +1,12 @@
+{
+  "mcpServers": [
+    {
+      "id": "mock-server",
+      "name": "Mock MCP",
+      "transport": "mock",
+      "enabled": true,
+      "description": "Built-in mock MCP server for demos"
+    }
+  ]
+}
+
